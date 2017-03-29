@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm-api/algorithm-api.iml" filepath="$PROJECT_DIR$/algorithm-api/algorithm-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm-consumer/algorithm-consumer.iml" filepath="$PROJECT_DIR$/algorithm-consumer/algorithm-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm-consumer/algorithm-consumer-test.iml" filepath="$PROJECT_DIR$/algorithm-consumer/algorithm-consumer-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm-provider/algorithm-provider.iml" filepath="$PROJECT_DIR$/algorithm-provider/algorithm-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-demo.iml" filepath="$PROJECT_DIR$/service-demo.iml" />
+    </modules>
+  </component>
+</project>
